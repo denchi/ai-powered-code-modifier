@@ -1,5 +1,14 @@
 # AI-Powered Code Modifier
 
+```plaintext
+    ___    _               __  __                _      _  _           
+   /   |  (_)___  ___     / /_/ /_  ___  _____   | |    (_)(_)__   ___  
+  / /| | / / __ \/ _ \   / __/ __ \/ _ \/ ___/   | |   / / / / _ \ / _ \ 
+ / ___ |/ / /_/ /  __/  / /_/ / / /  __/ /       | |__/ / / / (_) /  __/ 
+/_/  |_/_/ .___/\___/   \__/_/ /_/\___/_/        |____/_/ /_/\___/ \___/  
+        /_/                                                               
+```
+
 This project is a Python application that leverages OpenAI's GPT models to analyze a codebase, generate a change plan, and apply consistent modifications across the codebase based on user input.
 
 ## Features
